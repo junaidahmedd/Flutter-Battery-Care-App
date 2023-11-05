@@ -14,20 +14,20 @@ Battery Care is an Android application designed to help users monitor and mainta
 
 <p float="left">
   <img src="assets/screenshots/preview1.jpg" width="45%" />
-  <img src="assets/screenshots/preview2.jpg" width="45%" />
-</p>
-<p float="left">
-  <img src="assets/screenshots/preview3.jpg" width="45%" />
-  <img src="assets/screenshots/preview4.jpg" width="45%" />
-</p>
-<p float="left">
-  <img src="assets/screenshots/preview5.jpg" width="45%" />
   <img src="assets/screenshots/preview6.jpg" width="45%" />
 </p>
 <p float="left">
+  <img src="assets/screenshots/preview2.jpg" width="45%" />
   <img src="assets/screenshots/preview7.jpg" width="45%" />
+</p>
+<p float="left">
+  <img src="assets/screenshots/preview3.jpg" width="45%" />
   <img src="assets/screenshots/preview8.jpg" width="45%" />
 </p>
 <p float="left">
+  <img src="assets/screenshots/preview4.jpg" width="45%" />
   <img src="assets/screenshots/preview9.jpg" width="45%" />
+</p>
+<p float="left">
+  <img src="assets/screenshots/preview5.jpg" width="45%" />
 </p>
