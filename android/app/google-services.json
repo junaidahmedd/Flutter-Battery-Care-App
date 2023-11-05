@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661182945441",
+    "project_id": "batterycare-dce4a",
+    "storage_bucket": "batterycare-dce4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661182945441:android:131eeb193a63be1f93f8e0",
+        "android_client_info": {
+          "package_name": "com.batterycare.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3N8YAF9hyewfWXS4w4N4Mgq5hEDJyFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661182945441:android:26fc3a089e6d456893f8e0",
+        "android_client_info": {
+          "package_name": "com.batterycare.app.batterycare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3N8YAF9hyewfWXS4w4N4Mgq5hEDJyFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
